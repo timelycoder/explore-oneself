@@ -73,7 +73,7 @@ const ExperienceEducation = () => {
               className="timeline-start md:text-end mb-10 space-y-2.5 max-w-[450px]"
             >
               <time className="font-mono italic text-[#B1B1A2]">
-                2021-Present
+                2022-Present
               </time>
               <div className="text-[20px] font-medium text-[#C9F31D]">
                 Web Development
